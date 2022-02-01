@@ -7,14 +7,14 @@ You can write .NET apps in C#, F#, or Visual Basic.
 Here is a growing collection of resources and helpful commands to know when working with dotnet.
 
 ## Dotnet Commands
-- [dotnet add](./commands/add.md)
-- [dotnet build](./commands/build.md)
-- [dotnet clean](./commands/clean.md)
-- [dotnet format](./commands/format.md)
-- [dotnet list](./commands/list.md)
-- [dotnet new](./commands/new.md)
-- [dotnet run](./commands/run.md)
-- [dotnet watch](./commands/watch.md)
+- [dotnet add](./Commands/add.md)
+- [dotnet build](./Commands/build.md)
+- [dotnet clean](./Commands/clean.md)
+- [dotnet format](./Commands/format.md)
+- [dotnet list](./Commands/list.md)
+- [dotnet new](./Commands/new.md)
+- [dotnet run](./Commands/run.md)
+- [dotnet watch](./Commands/watch.md)
 
 ## External Resources
 - [Dotnet Command Cheat Sheet](https://cheatography.com/oba/cheat-sheets/dotnet-cli/)
